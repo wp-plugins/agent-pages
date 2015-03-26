@@ -1,4 +1,4 @@
-=== Agent Pages by RealEstateWP.com ===
+=== Real Estate Agent Pages for Real Estate Wordpress Websites |  RealEstateWP.com  ===
 Contributors: bigupbranding
 Donate link: http://bigupbranding.com/
 Tags: real estate
@@ -41,4 +41,5 @@ Visit us at bigupbranding.com with any questions!
 = 1.0 =
 
 * Intial development
+
 
